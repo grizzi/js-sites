@@ -1,2 +1,5 @@
+```bash
 npm init -y
-npm install live-server --save-dev
+npm install lite-server --save-dev
+npm run dev
+```

@@ -1,5 +1,5 @@
 {
   "port": 3000,
-  "files": ["./**/*.{html,htm,css,js}"],
-  "server": { "baseDir": "." }
+  "files": ["./palindrom-checker/*.{html,htm,css,js}"],
+  "server": { "baseDir": "palindrom-checker/" }
 }

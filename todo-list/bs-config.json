@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "files": ["./todo-list/*.{html,htm,css,js}"],
+  "server": { "baseDir": "todo-list/" }
+}

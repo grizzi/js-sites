@@ -1,0 +1,25 @@
+:root {
+  --light-grey: #f5f6f7;
+  --dark-blue: #181858;
+  --fcc-blue: #1b1b32;
+  --light-yellow: #fecc4c;
+  --dark-yellow: #feac32;
+  --light-pink: #ffadad;
+  --dark-red: #850000;
+  --light-green: #acd157;
+}
+  
+h1 {
+    text-align: center;
+}
+
+.outer-div {
+
+}
+
+body {
+  font-family: "Times New Roman", Times, sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: var(--dark-blue);
+}
+

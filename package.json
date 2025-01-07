@@ -1,10 +1,11 @@
 {
-  "name": "palindrom-checker",
+  "name": "js-sites",
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
     "palindrom-checker": "lite-server -c palindrom-checker/bs-config.json",
-    "todo-list": "lite-server -c todo-list/bs-config.json"
+    "todo-list": "lite-server -c todo-list/bs-config.json",
+    "roman-numeral-converter": "lite-server -c roman-numeral-converter/bs-config.json"
   },
   "keywords": [],
   "author": "",

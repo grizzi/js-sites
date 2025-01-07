@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "files": ["./roman-numeral-converter/*.{html,htm,css,js}"],
+  "server": { "baseDir": "roman-numeral-converter/" }
+}
